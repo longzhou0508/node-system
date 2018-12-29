@@ -1,0 +1,25 @@
+{
+  "name": "node-system",
+  "version": "1.0.0",
+  "description": "管理系统后台练习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longzhou0508/node-system.git"
+  },
+  "keywords": [
+    "node",
+    "mysql",
+    "pm2",
+    "react"
+  ],
+  "author": "zhoulong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longzhou0508/node-system/issues"
+  },
+  "homepage": "https://github.com/longzhou0508/node-system#readme"
+}
